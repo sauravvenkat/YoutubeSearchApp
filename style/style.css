@@ -1,0 +1,46 @@
+
+.col-md-4.list-group{
+	margin: 0.5%;
+	position: absolute;
+	right: 0%;
+}
+li.list-group-item{
+	cursor: pointer;
+	width: 400px;
+	margin: 4%;
+}
+li.list-group-item:hover{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+p.Description{
+	font-size: 13px;
+}
+h4.NoResult{
+	position: absolute;
+	top: 5%;
+}
+.video-detail.col-md-8{
+	height: 400px;
+	margin-top: 2%;
+	margin-bottom: 3%;
+	margin-left: 4%;
+}
+.search-bar{
+	margin: 3.7%;
+	width: 1000px;
+	display: inline-block;
+}
+.search{
+	display: inline;
+}
+.searchMe{
+	margin-left: 5px;
+	width: 80%;
+}
+.search-label{
+	display: inline-block;
+	margin-left: 2%;
+	border-color: grey;
+	border-style: 1px solid
+}
